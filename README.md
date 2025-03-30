@@ -1,4 +1,3 @@
-```markdown
 # Gen AI Analytics Dashboard
 A modern dashboard interface for interacting with AI-powered analytics tools, featuring natural language processing simulation and data visualization.
 
