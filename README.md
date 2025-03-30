@@ -3,7 +3,7 @@
 A modern dashboard interface for interacting with AI-powered analytics tools, featuring natural language processing simulation and data visualization.
 
 ## Features
-
+ t
 - **Natural Language Query Interface**
   - AI-powered suggestions with type-ahead
   - Mock query processing simulation
