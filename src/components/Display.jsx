@@ -5,7 +5,7 @@ const ChartDisplay = ({ data }) => {
 
     const ChartType = data.type === 'line' ? LineChart : BarChart;
     const ChartElement = data.type === 'line' ? Line : Bar;
-  
+   
     return (
       <div className="h-64 md:h-96 mb-6">
         <ResponsiveContainer width="100%" height="100%">
