@@ -6,7 +6,7 @@ const initialState = {
   isLoading: false,
   error: null,
 };
-
+ 
 const querySlice = createSlice({
   name: 'query',
   initialState,
