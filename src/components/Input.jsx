@@ -5,7 +5,7 @@ import { querySuccess, submitQuery } from '../redux/querySlice';
 const QueryInput = () => {
     const [input, setInput] = useState('');
     const dispatch = useDispatch();
-    
+     
     // AI suggestions array
     const [suggestions] = useState([
         "How GrowthGear can make impact in your business?",
