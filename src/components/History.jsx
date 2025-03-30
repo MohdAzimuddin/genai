@@ -1,7 +1,7 @@
 import { useDispatch, useSelector } from 'react-redux';
 import { submitQuery, querySuccess } from '../redux/querySlice';
 
-// Reusable mock data generator (keep consistent with QueryInput)
+// Reusable mock data generator (keeping consistent QueryInput)
 const generateMockData = (query) => ({
   query,
   type: query.toLowerCase().includes('trend') ? 'line' : 'bar',
