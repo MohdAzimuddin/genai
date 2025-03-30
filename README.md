@@ -33,7 +33,7 @@ The application is deployed using Vercel:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MohdAzimuddin/genai.git
    ```
 2. **Install dependencies**
    ```bash
