@@ -82,7 +82,7 @@ const QueryInput = () => {
                 
                 <button
                     type="submit"
-                    className="md:w-auto px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 text-sm md:text-base transition-colors"
+                    className="md:w-auto px-6 py-2 bg-blue-500 text-white rounded-lg mt-8 lg:mt-1  hover:bg-blue-600 text-sm md:text-base transition-colors"
                 >
                     Ask
                 </button>
