@@ -21,7 +21,7 @@ A modern dashboard interface for interacting with AI-powered analytics tools, fe
 
 ## My Approach towards Gen AI Analytics Dashboard
 
-[![Vercel](https://docs.google.com/document/d/1nHejgrVE892e1VpwWJ8bKJM2r5KUf3fH1iIb8FoOBpU/edit?usp=sharing)]
+[![Google Docs](https://docs.google.com/document/d/1nHejgrVE892e1VpwWJ8bKJM2r5KUf3fH1iIb8FoOBpU/edit?usp=sharing)](view)
 
   ## Deployment
 
