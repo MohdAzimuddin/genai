@@ -2,7 +2,7 @@
 A modern dashboard interface for interacting with AI-powered analytics tools, featuring natural language processing simulation and data visualization.
 
 ## Features
- t
+
 - **Natural Language Query Interface**
   - AI-powered suggestions with type-ahead
   - Mock query processing simulation
@@ -21,19 +21,19 @@ A modern dashboard interface for interacting with AI-powered analytics tools, fe
 
 ## My Approach towards Gen AI Analytics Dashboard
 
-[![Google Docs](https://docs.google.com/document/d/1nHejgrVE892e1VpwWJ8bKJM2r5KUf3fH1iIb8FoOBpU/edit?usp=sharing)](view)
+[![Google Docs](https://img.shields.io/badge/View-Google%20Docs-blue)](https://docs.google.com/document/d/1nHejgrVE892e1VpwWJ8bKJM2r5KUf3fH1iIb8FoOBpU/edit?usp=sharing)
 
-  ## Deployment
+## Deployment
 
 The application is deployed using Vercel:
 
-[![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-black)]()
+[![Vercel](https://img.shields.io/badge/View-Vercel-black)](https://genai-alpha.vercel.app/)
 
 ## Installation
 
 1. **Clone the repository**
    ```bash
-   git clone _
+   git clone <repository-url>
    ```
 2. **Install dependencies**
    ```bash
@@ -48,7 +48,7 @@ The application is deployed using Vercel:
 ## Usage
 
 1. **Enter a natural language query**
-   -"Show sales trends for last quarter"
+   - "Show sales trends for last quarter"
    
 2. **View generated visualizations**
    - Automatic chart type selection
@@ -68,10 +68,8 @@ The application is deployed using Vercel:
 - **Visualization**: Recharts
 - **Build Tool**: Vite
 
-
-
 ---
 
 **Note**: This is a prototype implementation for demonstration purposes. All AI features are simulated using mock data and delayed responses.
-```
+
 
