@@ -10,7 +10,7 @@ const generateMockData = (query) => ({
     value: Math.floor(Math.random() * 1000),
   })),
 });
-
+ 
 // Query History
 const QueryHistory = () => {
   const { queries } = useSelector((state) => state.query);
